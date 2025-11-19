@@ -260,5 +260,4 @@ Model & param chính,
 
 AUC + Recall/Precision@5% trên validation,
 
-Top feature ảnh hưởng (từ SHAP).
-`
+Top feature ảnh hưởng (từ SHAP)
