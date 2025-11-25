@@ -1,0 +1,12 @@
+input/
+input/**
+*.csv
+*.zip
+*.gz
+*.parquet
+./notebook/*.csv
+input/
+*.csv
+
+input/
+*.csv
