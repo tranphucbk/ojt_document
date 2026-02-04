@@ -23,5 +23,7 @@ https://albahnsen.github.io/files/Feature%20Engineering%20Strategies%20for%20Cre
 
 https://github.com/dachosen1/Feature-Engineering-for-Fraud-Detection/tree/master
 
+https://drive.google.com/drive/folders/1CXShX7gooaRVbgPJiQVbwqjSCJCXSMuJ?usp=sharing
+
 Báo cáo:
 https://docs.google.com/document/d/14wZxlTUx12evRzRcFRPM5A9GtvC-E1BaDF9SP2uMJ2c/edit?tab=t.0#heading=h.vty7qc46gla6
