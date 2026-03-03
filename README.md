@@ -27,3 +27,8 @@ https://drive.google.com/drive/folders/1CXShX7gooaRVbgPJiQVbwqjSCJCXSMuJ?usp=sha
 
 Báo cáo:
 https://docs.google.com/document/d/14wZxlTUx12evRzRcFRPM5A9GtvC-E1BaDF9SP2uMJ2c/edit?tab=t.0#heading=h.vty7qc46gla6
+
+Tham khảo:
+https://drive.google.com/drive/u/0/folders/117tMXl1I0AaC5vJ-KdB2tGGxPCgds-jI
+
+https://docs.google.com/document/d/1VlS1t_7atET7bH-OSuTwVaSOC7TP5T4XpDuHoAAfBmg/edit?usp=sharing
